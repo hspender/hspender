@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hspender
-- 👀 I’m interested in codeing
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning Git
 - 💞️ I’m looking to collaborate on Bash scripts
 - 📫 How to reach me hspender@protonmail.com
