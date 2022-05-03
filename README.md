@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hspender
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Git
+- 🌱 I’m currently learning Git, GitKraken, Intellij Idea, Bash and Nim.
 - 💞️ I’m looking to collaborate on Bash scripts
-- 📫 How to reach me hspender@protonmail.com
+- 📫 How to reach me... here!
 
 <!---
 hspender/hspender is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
