@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hspender
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Git, GitKraken, Intellij Idea, Bash and Nim.
+- 🌱 I’m currently coding!
 - 💞️ I’m looking to collaborate on Bash scripts
 - 📫 How to reach me... here!
 
