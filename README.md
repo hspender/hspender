@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hspender
+- 👋 Hi, I’m @hspender aka Harry Spender :-)
 - 👀 I’m interested in coding
 - 🌱 I’m currently coding!
 - 💞️ I’m looking to collaborate on Bash scripts
